@@ -2,7 +2,7 @@
 ![apricot](https://github.com/KriperPlay/Apricot-clicker/assets/92634754/a060147b-e306-41cd-9182-362fff08f0ce)
 
 # About
-apricot clicker - simple clicker game on pythona(framework - kivy)
+apricot clicker - simple clicker game on python(framework - kivy)
 
 # What for i made this?
 I was boring..
