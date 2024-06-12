@@ -12,8 +12,6 @@ class MyApp(App):
         super().__init__()
         self.apricot = 0
         self.apricot_need = 100
-        self.upgrade_click = 5
-        self.upgrade_price = 100
         self.file = open('files/apr.txt', 'r')
         self.file1 = open('files/aprn.txt', 'r')
         for line in self.file:
